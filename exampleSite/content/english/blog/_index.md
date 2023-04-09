@@ -1,6 +1,6 @@
 ---
 title: "Latest News"
-description: "this is meta description"
+description: "Keep up to date with CYATCA"
 draft: false
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/582464-airplane-wallpaper.jpg"
 ---

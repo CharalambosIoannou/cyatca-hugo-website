@@ -50,7 +50,7 @@ portfolio:
 </ol>
   "
   button:
-    enable: true
+    enable: false
     label: "View our Photos"
     link: "project/"
 
@@ -64,58 +64,71 @@ service:
 ############################ call to action ###########################
 cta:
   enable: true
-  bg_image: "images/call-to-action-bg.jpg"
-  title: "We design delightful digital experiences."
-  content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  bg_image: "images/10878270.jpg"
+  title: "We always deliver our absolute best service"
+  content: "Air traffic control aims to move aircraft safely and efficiently through the airspace system"
   button:
     enable: true
-    label: "Tell Us Your Story"
-    link: "contact/"
+    label: "View some of our work"
+    link: "project/"
 
 ############################# Funfacts ###############################
 funfacts:
   enable: true
-  title: "Fun Facts About Us"
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
+  title: "Facts About Us"
+  description: ""
   funfact_item:
-  # funfacts item loop
-  - icon: "fas fa-mug-hot" #https://fontawesome.com/v5.15/icons
-    name: "Cups Of Coffee"
-    count: "99"
 
   # funfacts item loop
-  - icon: "fas fa-glasses" #https://fontawesome.com/v5.15/icons
-    name: "Article Written"
-    count: "45"
+  - icon: "fas fa-plane" #https://fontawesome.com/v5.15/icons
+    name: "Daily Flights"
+    count: "962"
 
   # funfacts item loop
-  - icon: "fas fa-keyboard" #https://fontawesome.com/v5.15/icons
-    name: "Projects Completed"
-    count: "125"
+  - icon: "fas fa-users" #https://fontawesome.com/v5.15/icons
+    name: "CYATCA Members"
+    count: "150"
+
+  # funfacts item loop
+  - icon: "fas fa-globe-americas" #https://fontawesome.com/v5.15/icons
+    name: "Airlines Served"
+    count: "146"
 
   # funfacts item loop
   - icon: "fas fa-clock" #https://fontawesome.com/v5.15/icons
-    name: "Combined Projects"
-    count: "200"
+    name: "Delays"
+    count: "0"
 
   testimonial_slider:
   # testimonial item loop
-  - name: "Raymond Roy"
+  - name: "Mr. Nicos Lyrakides "
     image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
+    designation: "President"
+    content: "I founded CYATCA in 2008 "
 
   # testimonial item loop
-  - name: "Randi Renin"
-    image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
-
-  # testimonial item loop
-  - name: "Rose Rio"
+  - name: "Mrs. Dina Ioannou"
     image: "images/clients/avater-3.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
+    designation: "Vice President"
+    content: "I am vice president"
+
+  # testimonial item loop
+  - name: "Mr. Eraclis Eracleous"
+    image: "images/clients/avater-2.jpg"
+    designation: "IFATCA Liaison Officer"
+    content: "Hello"
+
+    # testimonial item loop
+  - name: "Mr. Heracles Heracleous"
+    image: "images/clients/avater-2.jpg"
+    designation: "Secretary"
+    content: "Hello"
+
+    # testimonial item loop
+  - name: "Mr. Michalis Xatzisimou"
+    image: "images/clients/avater-2.jpg"
+    designation: "Treasurer"
+    content: "Hello"
 
 
 ---
