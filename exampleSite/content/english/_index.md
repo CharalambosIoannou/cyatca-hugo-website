@@ -36,7 +36,7 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/582464-airplane-wallpaper.jpg"
+  bg_image: "images/airplanewingcloudysky.webp"
   title: "HOW DO WE ACHIEVE OUR OBJECTIVES"
   content: " 
    <ol>
