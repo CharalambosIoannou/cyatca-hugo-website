@@ -17,18 +17,18 @@ Find below our most frequently asked questions!
 
 An ATC licence is a legal document allowing the licence-holder to provide Air Traffic Control Services and attests that the holder has been trained in for the national ATC procedures, aviation law and meteorology. ATC training enables ratings to be added to the licence that permit the licence-holder to provide specific types of ATC services. The following ratings may be obtained:
 
-* Tower and Approach Control Procedural Rating
-* Area Control Procedural Rating
-* Area Control Surveillance Rating
+1. Tower and Approach Control Procedural Rating
+2. Area Control Procedural Rating
+3. Area Control Surveillance Rating
 
 <br><br><br>
 #### 2. Where can I work as an ATC in Cyprus?
 
 ATC is provided at:
 
-* Larnaca International Airport (LCLK),
-* Pafos International Airport (LCPH),
-* Nicosia Area Control Center (LCCC).
+1. Larnaca International Airport (LCLK),
+2. Pafos International Airport (LCPH),
+3. Nicosia Area Control Center (LCCC).
  
 
  
