@@ -17,6 +17,7 @@ AUTHOR WEBSITE: https://gethugothemes.com
 	{{ if hugo.IsProduction }}
 	{{ partialCached "style.html" . }}
 	{{ else }}
+	{{ partial "script.html" . }}
 	{{ partial "style.html" . }}
 	{{ end }}
 </head>
