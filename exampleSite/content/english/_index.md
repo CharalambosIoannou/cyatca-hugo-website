@@ -2,40 +2,56 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/slider-bg.jpg"
+  bg_image: "images/Southwest-Best1.jpg"
   bg_overlay: true
-  title: "A Digital Marketing <br/> & Design Agency"
-  content: "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title: "CYATCA"
+  content: "Cyprus Air Traffic Controllers' Association"
   button:
     enable: true
-    label: "Discover Our Project"
-    link: "project/"
+    label: "Find out about us"
+    link: "about/"
 
 ############################# About #################################
 about:
   enable: true
-  title: "About Us"
-  description: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id."
+  title: "Our Objectives"
+  description: "We are the Cyprus Air Traffic Controllers' Association. Founded on 2008 our goal is to represent all ATCOs in Cyprus."
+  content: "
+  <strong> The objectives of the Cyprus Air Traffic Controllers’ Association are: </strong><br>
+
+ 
+ <ol>
+  <li>To operate as a non-profit and non-political professional association for Cypriot Air Traffic Controllers;</li>
+  <li>To promote safety, efficiency and regularity in International Air Navigation;</li>
+  <li>To promote the development of means and procedures suitable and necessary for the economic and efficient control of air traffic;</li>
+  <li>To promote and uphold a high standard of knowledge and professional efficiency among Air Traffic Controllers and among associate professional members;</li>
+  <li>To protect and safeguard the interests of the Air Traffic Control profession;</li>
+  <li>To conform and adhere to the constitution of IFATCA;</li>
+  <li>To strive for a world-wide association of controllers under the International Federation of Air Traffic Controllers’ Association.</li>
+</ol>
+"
   image: "images/wrapper-img.png"
 
 
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/feature-bg.jpg"
-  title: "WE BELIEVE IN GREAT IDEAS"
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  bg_image: "images/582464-airplane-wallpaper.jpg"
+  title: "HOW DO WE ACHIEVE OUR OBJECTIVES"
+  content: " 
+   <ol>
+  <li>Closely co-operate with the national and international aviation authorities and other institutions or persons concerned with air navigation;</li>
+  <li>Assist the national authority in the development of new procedures and facilities necessary and useful for the safety of international air navigation;</li>
+  <li>Collect and distribute information on professional problems and developments;</li>
+  <li>To promote and uphold a high standard of knowledge and professional efficiency among Air Traffic Controllers and among associate professional members;</li>
+  <li>Levy annual subscriptions from professional members, associate professional members and corporate members to provide the funds for an effective management of the Association’s activities, and commitments towards IFATCA.</li>
+  <li>Sponsor and support the passage of legislation and regulations which will increase and protect the safety of air navigation through the improvement of working conditions in Air Traffic Control;</li>
+  <li>Issue an official journal or other publications at convenient times for the purpose of promulgating and advancing matters of air traffic control.</li>
+</ol>
   "
   button:
     enable: true
-    label: "View Works"
+    label: "View our Photos"
     link: "project/"
 
 
