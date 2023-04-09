@@ -1,7 +1,7 @@
 <!-- Google Maps API -->
 {{ if site.Params.gmap.enable }}
 {{ if ("contact/" | relLangURL | eq .RelPermalink) }}
-<script defer src="https://maps.googleapis.com/maps/api/js?key={{ site.Params.gmap.gmap_api }}&libraries=places"></script>
+<script asyc defer src="https://maps.googleapis.com/maps/api/js?key={{ site.Params.gmap.gmap_api }}&libraries=places"></script>
 {{ end }}
 {{ end }}
 
