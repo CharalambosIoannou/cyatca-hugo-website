@@ -57,18 +57,6 @@ export default defineConfig({
             required: false,
           },
           {
-            type: "string",
-            name: "categories",
-            label: "Categories",
-            required: false,
-          },
-          {
-            type: "string",
-            name: "tags",
-            label: "Tags",
-            required: false,
-          },
-          {
             type: "rich-text",
             name: "body",
             label: "Body",
