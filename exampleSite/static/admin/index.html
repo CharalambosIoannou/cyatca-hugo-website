@@ -2,12 +2,24 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>Content Manager</title>
-    <!-- the script for authentication using Netlify Identity -->
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TinaCMS</title>
   </head>
-  <body>
-    <!-- the script that builds the page and powers Netlify CMS -->
-    <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+
+  <!-- if development -->
+  <script type="module">
+    import RefreshRuntime from 'http://localhost:4001/@react-refresh'
+    RefreshRuntime.injectIntoGlobalHook(window)
+    window.$RefreshReg$ = () => {}
+    window.$RefreshSig$ = () => (type) => type
+    window.__vite_plugin_react_preamble_installed__ = true
+  </script>
+  <script type="module" src="http://localhost:4001/@vite/client"></script>
+  <script
+    type="module"
+    src="http://localhost:4001/src/main.tsx"
+  ></script>
+  <body class="tina-tailwind">
+    <div id="root"></div>
   </body>
 </html>
