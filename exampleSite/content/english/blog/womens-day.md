@@ -1,13 +1,15 @@
 ---
-title: "ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΤΗΣ ΓΥΝΑΙΚΑΣ"
-date: 2023-03-08T00:00:00+01:00
+title: ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΤΗΣ ΓΥΝΑΙΚΑΣ
+date: 2023-03-07T23:00:00.000Z
 author: CYATCA
-image : "images/blog/blog-post-7.jpg"
-bg_image: "images/582464-airplane-wallpaper.jpg"
-categories: ["Women's Day"]
-tags: ["ATC"]
+image: /10878270.jpg
+bg_image: images/582464-airplane-wallpaper.jpg
+categories:
+  - Women's Day
+tags:
+  - ATC
 draft: false
-type: "post"
+type: post
 ---
 
 8 ΜΑΡΤΙΟΥ- ΔΙΕΘΝΗΣ ΗΜΕΡΑ ΤΗΣ ΓΥΝΑΙΚΑΣ- ΧΡΟΝΙΑ ΠΟΛΛΑ!
@@ -25,5 +27,4 @@ the International Women’s Day theme: #BreakTheBias
 
 Read the full statement: https://www.ifatca.org/2022/03/iwd2022
 
-
-#ifatca #ifalpa #ifatsea #iwd22 #iwd2022
+\#ifatca #ifalpa #ifatsea #iwd22 #iwd2022
